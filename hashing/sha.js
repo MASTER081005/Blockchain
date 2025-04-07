@@ -17,7 +17,7 @@ function generateSHA256(input) {
 }
 
 // Example usage
-const message = "Hello, blockchain!";
+const message = "Hell, blockchain!";
 const hash = generateSHA256(message);
 
 console.log(`Message: ${message}`);
